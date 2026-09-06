@@ -55,11 +55,13 @@ You can move any question to a different position whenever required.
 
 Once a question has been revised, mark it as revised and continue with the queue.
 
-## 🌐 Live Demo
-
-[🚀 Try ReviseQueue](https://jmkdevhub.github.io/RevQueue/)
 ---
 
+## 🌐 Live Demo
+
+[🔗 Live Demo](https://jmkdevhub.github.io/RevQueue/)
+
+---
 
 ## 🚀 Getting Started
 
@@ -72,7 +74,7 @@ git clone https://github.com/JMKdevhub/RevQueue.git
 ### Navigate to the project
 
 ```bash
-cd ReviseQueue
+cd RevQueue
 ```
 
 ### Install dependencies
@@ -88,8 +90,6 @@ npm run dev
 ```
 
 ---
-
-
 
 ## 👨‍💻 Author
 
