@@ -66,7 +66,7 @@ Once a question has been revised, mark it as revised and continue with the queue
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ReviseQueue.git
+git clone https://github.com/JMKdevhub/RevQueue.git
 ```
 
 ### Navigate to the project
